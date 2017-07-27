@@ -43,5 +43,23 @@
   },
   "zip_code": "10174",
   "address1": null,
-  "order": 1
+  "order": 1,
+  "image": {
+    "url": "https://edit---demo-20.qa-traveltripper.info/assets/images/Facility1.jpg",
+    "path": "/assets/images/Facility1.jpg",
+    "file_type": null,
+    "name": "Facility1.jpg",
+    "tags": null,
+    "url_large": null,
+    "url_thumb": null,
+    "url_medium": null,
+    "url_small": null,
+    "url_xsmall": null,
+    "width": null,
+    "height": null,
+    "file_size": null,
+    "alt": "Test",
+    "caption": null,
+    "description": null
+  }
 }
