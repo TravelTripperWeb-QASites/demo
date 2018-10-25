@@ -43,5 +43,25 @@
   },
   "zip_code": "10017",
   "address1": null,
-  "order": 3
+  "order": 3,
+  "image": {
+    "url": "https://cdn.qa-traveltripper.info/site-assets/2_6_20/media/2017-06-20-093413/IMG-0073.jpg",
+    "name": "IMG_0073",
+    "file_name": "IMG_0031.jpg",
+    "file_type": "image/jpeg",
+    "date_added": "2017-07-27-132024",
+    "tags": "",
+    "file_size": 196457,
+    "width": 1334,
+    "height": 750,
+    "description": "",
+    "url_large": "https://cdn.qa-traveltripper.info.s3.amazonaws.com/site-assets/2_6_20/media/2017-06-20-093413/large_IMG_0073.jpg",
+    "url_medium": "https://cdn.qa-traveltripper.info.s3.amazonaws.com/site-assets/2_6_20/media/2017-06-20-093413/medium_IMG_0073.jpg",
+    "url_small": "https://cdn.qa-traveltripper.info.s3.amazonaws.com/site-assets/2_6_20/media/2017-06-20-093413/small_IMG_0073.jpg",
+    "url_xsmall": "https://cdn.qa-traveltripper.info.s3.amazonaws.com/site-assets/2_6_20/media/2017-06-20-093413/xsmall_IMG_0073.jpg",
+    "url_thumb": "https://cdn.qa-traveltripper.info.s3.amazonaws.com/site-assets/2_6_20/media/2017-06-20-093413/thumb_IMG_0073.jpg",
+    "path": "https://cdn.qa-traveltripper.info/site-assets/2_6_20/media/2017-06-20-093413/IMG-0073.jpg",
+    "alt": "Test",
+    "caption": ""
+  }
 }
