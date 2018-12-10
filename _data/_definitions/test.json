@@ -1,0 +1,12 @@
+{
+   "name": {
+     "required": true
+   },
+   "color": {
+     "type": "color"
+   },
+   "location": {
+     "type": "location",
+     "multiple": true
+   }
+ }
